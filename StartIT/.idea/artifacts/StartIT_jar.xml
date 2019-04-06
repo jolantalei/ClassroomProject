@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StartIT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StartIT_jar</output-path>
+    <root id="archive" name="StartIT.jar">
+      <element id="module-output" name="StartIT" />
+    </root>
+  </artifact>
+</component>
