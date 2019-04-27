@@ -1,4 +1,8 @@
 package Lesson7;
 
-public class Pet {
-}
+import java.util.Scanner;
+
+public abstract class Pet {
+    public abstract String getVoiceMessage();
+
+    }

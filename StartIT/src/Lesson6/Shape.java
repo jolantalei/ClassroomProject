@@ -1,4 +1,8 @@
-package Lesson7;
+package Lesson6;
 
-public class Shape {
+public abstract class Shape {
+    public abstract double getPerimeter ();
+    public abstract double getArea ();
+
 }
+
